@@ -1,0 +1,650 @@
+o: ActiveSupport::Cache::Entry:@valueI"´9
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Uranium
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Uranium" class="product-image" height="100" src="/assets/uranium.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$99.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Pancakes
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Pancakes" class="product-image" height="100" src="/assets/pancake-maker.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$199.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Bacon + Mayo
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Bacon + Mayo" class="product-image" height="100" src="/assets/baconnaise.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$299.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Bacon Bacon Bacon.
+Did we mention Bacon !
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		BatMan
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="BatMan" class="product-image" height="100" src="/assets/batshelf.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Bees
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Bees" class="product-image" height="100" src="/assets/bees.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		BigFoot
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="BigFoot" class="product-image" height="100" src="/assets/bigfoot-sweater.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		BigFoot
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="BigFoot" class="product-image" height="100" src="/assets/bigfoot.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Cthulhu
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Cthulhu" class="product-image" height="100" src="/assets/cthulhu.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Fez
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Fez" class="product-image" height="100" src="/assets/fez.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Chair
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Chair" class="product-image" height="100" src="/assets/grass-chair.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Kiss
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Kiss" class="product-image" height="100" src="/assets/kiss.jpeg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Lego
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Lego" class="product-image" height="100" src="/assets/lego.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Mustache
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Mustache" class="product-image" height="100" src="/assets/mustache.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Squirrel
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Squirrel" class="product-image" height="100" src="/assets/squirrel.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		StarWars
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="StarWars" class="product-image" height="100" src="/assets/starwars-shirt.jpeg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Tank
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Tank" class="product-image" height="100" src="/assets/tank.jpeg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Tentacles
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Tentacles" class="product-image" height="100" src="/assets/tentacles.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$499.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Awesome Sauce
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+
+	  <div class="product-container" draggable="true" >
+	  
+	  	<div class="product-title">
+	  		<i class="fa fa-scissors"></i>
+	  		Unicorn Meat
+	  	</div>
+	  	
+	  	<div class="image-container">
+	  		 <img alt="Unicorn Meat" class="product-image" height="100" src="/assets/51sGATfX3NL.jpg" width="100" />
+	 	</div>	
+	 	
+	    <div class="product-price">
+	 		$599.00
+	  	</div>
+
+	  	<div class="product-buttons">
+		  	<!-- Add to Cart Button -->
+			<ul>
+				<li class="add-to-cart">
+					<a href=""> <i class="fa fa-plus"></i>   Add to Cart </a>
+				</li>	
+
+			  	<!-- Product Details -->
+				<li class="product-details">
+					<a href=""> <i class="fa fa-info-circle"></i>   Product Details </a>
+				</li>
+
+				<!-- Show Product Details -->
+				<li class="show-details">
+					Chuck Norris only eats rare Meat.
+				</li>
+			</ul>
+	  	</div>
+	  
+	  </div>
+:ET:@created_atf1391996535.702233:@expires_in0
