@@ -30,25 +30,30 @@ body{
 	.survey-wrap{
 		border: 2px solid green;
 		position: relative;
-		clear: both;
 		width: 100%;
 		display: inline-table;
+		background-color: orange;
 		
 		.help-options{
-			border: 5px dashed red;
-			display: inline-block;
-			div{
-				position: relative;
-				display: inline-block;
-				float: left;
-			}
+			// border: 5px dashed red;
+			display: table-row;
+			position: relative;	
+			  div{
+			   float: left;
+			   padding: 15px 20px;
+			    &:hover{
+			    	background-color: white;
+			    }
+			  }
 		}
 
 		.wheel-options{
+			// border: 5px dashed red;
+			display: table-row;
 			ul{
-				clear: both;
-				position: relative;
-				display: inline-block;
+			  li{
+			  	float: left;
+			  }	
 			}
 		}
 		
@@ -57,6 +62,21 @@ body{
 		}
 
 	}
+
+		.car-info{
+			// border: 5px dashed red;
+			display: table-row;
+			ul {
+				position: relative;
+				display: inline-block;
+			  li{
+			  	float: left;
+			  }
+			}
+		}
+
+
+
 
 	.cart-droppable-area{
 		height: 400px;
