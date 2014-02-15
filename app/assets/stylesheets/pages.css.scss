@@ -1,6 +1,6 @@
 @import 'library';
 @import 'reset';
-@import 'font-awesome';
+// @import 'font-awesome';
 
 @mixin oval-shadow{
 	height: 25px;
@@ -21,11 +21,41 @@
 body{
 	background-color: black;
 
-
 	h1{
 		color: red;
 		text-align: center;
 		background-color: white;
+	}
+
+	.survey-wrap{
+		border: 2px solid green;
+		position: relative;
+		clear: both;
+		width: 100%;
+		display: inline-table;
+		
+		.help-options{
+			border: 5px dashed red;
+			display: inline-block;
+			div{
+				position: relative;
+				display: inline-block;
+				float: left;
+			}
+		}
+
+		.wheel-options{
+			ul{
+				clear: both;
+				position: relative;
+				display: inline-block;
+			}
+		}
+		
+		div{
+			background-color: grey;
+		}
+
 	}
 
 	.cart-droppable-area{
@@ -40,7 +70,7 @@ body{
 		font-size: 50px;
 		width: 100%;
 		text-align: center;
-		border: 2px solid green;
+		border: 2px solid yellow;
 		}
 
 		.cart-table{
