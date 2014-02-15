@@ -6,25 +6,8 @@
 
 <h1 class="header">Week 5 Product app</h1>
 
-<div class="cart-droppable-area">
-	<i class="cart-icon fa fa-shopping-cart fa-5x">Shopping Cart</i>
-	
-	<div class="cart-table">
-	  <table>
-	  	
-
-			<th>Product Name</th><th>QTY</th><th>Unit Price</th><th>Full Price</th>
-			
-			<tr>
-			  <td> Product Image Small </td>
-			  <td> Qty</td>
-			  <td> $499 </td>
-			  <td> $499 </td>
-			</tr>
-
-	  </table>
-	</div>
-</div>
+<%= render 'survey' %>
+<%= render 'cart_setup' %>
 
 <div class="grid-container">
 	<% cache ['pages', Product.latest] do %>
