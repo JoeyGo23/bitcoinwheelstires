@@ -1,0 +1,50 @@
+<div class="survey-wrap" >Survey
+	<p>What can we help you find ?</p>
+
+	<div class="help-options">
+		<div class="logo-wheels"><i class="fa fa-square-o fa-6"> Wheels </i></div>
+		<div class="logo-tires"><i class="fa fa-bullseye fa-6"> Tires </i></div>
+		<div class="logo-packages"><i class="fa fa-asterisk fa-6"> Packages </i></div>
+	</div>
+
+	<div class="wheel-options">
+		<div>Size</div>
+		<ul class="size">
+			<li> 15 </li>
+			<li> 16 </li>
+			<li> 17 </li>
+			<li> 18 </li>
+			<li> 19 </li>
+			<li> 20 </li>
+			<li> 22 </li>
+			<li> 24 </li>
+			<li> 26 </li>
+			<li> 28 </li>
+			<li> 30 </li>
+			<li> 32 </li>
+		</ul>
+		div.clear
+		<div>Finish</div>
+		<ul class="finish">
+			<li> Chrome </li>
+			<li> Black </li>
+			<li> Silver </li>
+		</ul>
+	</div>
+
+	<div class="car-info">
+		<ul>
+			<div> Year </div>
+				<li> 1960 - 1980 </li>
+				<li> 1981 - 1999 </li>
+				<li> 2000 - now </li>
+			<div> Make </div>
+			<li>Chevy</li>
+			<li>Cadillac</li>
+		</br>
+			<div> Model </div>
+			<li>Chevy</li>
+			<li>Cadillac</li>
+		</ul>
+	</div>
+</div>

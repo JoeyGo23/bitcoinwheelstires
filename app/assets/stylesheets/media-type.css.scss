@@ -1,0 +1,35 @@
+@media only screen and (min-width: 600px) {
+
+   body {
+	  .clear{
+	  		clear: both;
+	  }
+
+      .help-options{
+      	div{
+      	position: relative;
+      	text-align: center;
+      	margin-left:80px;	
+      	font-size: large;
+      	}
+      }
+      
+      .wheel-options{
+      	
+			li{
+			  	// float: left;
+			  	// padding: 10px 30px;
+			  	& :hover {
+			  		border: 5px solid white;
+			  	}
+			}	
+		}
+     
+      
+
+      .product-title{
+      	color: red;
+      }
+   
+   }
+}
