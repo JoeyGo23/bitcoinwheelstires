@@ -11,7 +11,23 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery_ujs
-//= require jquery.ui.all
-//= require turbolinks
-//= require_tree .
+//= require angular
+//= require_self
+
+var fakeio = angular.module('fakeio', [])
+  .config(function($httpProvider) {
+  $httpProvider.defaults.headers.common['X-CSRF-Token'] = $('meta[name=csrf-token]').attr('content')
+});
+
+fakeio.controller('PlaylistCtrl', function($scope, $http) {
+  $scope.albums = window.ALBUMS;
+  $scope.playlist = window.PLAYLIST;
+  
+  $scope.addToPlaylist = function(albumIndex) {
+    var album = $scope.albums[albumIndex];
+    $http.post("/add", {name: album.name})
+    .success(function (data) {
+      $scope.playlist = data;
+    });
+  };
+})
