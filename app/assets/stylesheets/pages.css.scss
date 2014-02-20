@@ -35,6 +35,10 @@ body{
 		display: inline-table;
 		background-color: orange;
 		
+		p{
+		  text-align: center;	
+		}
+
 		.help-options{
 			// border: 5px dashed red;
 			display: table-row;
