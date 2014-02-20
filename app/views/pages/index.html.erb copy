@@ -7,6 +7,8 @@
 <h1 class="header">Week 5 Product app</h1>
 
 <%= render 'survey' %>
+<%= render 'cart_setup' %>
+<%= render 'products_display' %>
 
 </body>
 </html>
